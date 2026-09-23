@@ -11,5 +11,5 @@ Database: SQLite (with SQLAlchemy ORM)
 Templating Engine: Jinja2 Templates
 Core Packages: google-generativeai, pydantic, python-multipart
 Core AI Models Integrated
-Google Gemini 1.5 Pro: Used for parsing fitness goals and compiling structured 7-day workout plans.
-Google Gemini 1.5 Flash: Used for rapid response generation of micro-dietary and nutrition tips.
+1.Google Gemini 1.5 Pro: Used for parsing fitness goals and compiling structured 7-day workout plans.
+2.Google Gemini 1.5 Flash: Used for rapid response generation of micro-dietary and nutrition tips.
